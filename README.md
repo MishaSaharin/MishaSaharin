@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Hi, I’m Misha
+### I’m Misha
 I am a Java developer
 I have graduated JavaRush University
 
